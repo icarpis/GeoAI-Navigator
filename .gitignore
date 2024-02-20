@@ -1,0 +1,4 @@
+/env/*
+*.tif
+*png
+*json
